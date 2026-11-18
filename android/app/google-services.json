@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "325581445057",
+    "project_id": "notes-d1d3b",
+    "storage_bucket": "notes-d1d3b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325581445057:android:c46c7764f81576237c4140",
+        "android_client_info": {
+          "package_name": "com.example.kiosk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv5mAU2EdZkuYsYFYs2IUYHVyjDVB7V4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
